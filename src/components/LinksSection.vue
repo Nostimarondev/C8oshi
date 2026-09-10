@@ -41,7 +41,7 @@
         :shineSize="25"
         :shineFade="40"
         :thickness="1"
-        :speed="1.3"
+        :speed="0.15"
         :followMouse="true"
         :proximity="250"
         :autoAnimate="true"

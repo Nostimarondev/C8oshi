@@ -44,7 +44,7 @@ const props = defineProps({
   shineSize: { type: Number, default: 10 },
   shineFade: { type: Number, default: 40 },
   thickness: { type: Number, default: 1 },
-  speed: { type: Number, default: 0.35 },
+  speed: { type: Number, default: 0.10 },
   followMouse: { type: Boolean, default: true },
   proximity: { type: Number, default: 250 },
   autoAnimate: { type: Boolean, default: false },
