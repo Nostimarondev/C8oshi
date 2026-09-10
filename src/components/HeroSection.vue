@@ -11,8 +11,8 @@
       </div>
       
       <!-- Blurred Headline Reveal -->
-      <h1 class="text-7xl md:text-[9rem] font-black tracking-tighter uppercase hero-title leading-none mb-2">
-        C8OSHI
+      <h1 class="text-7xl md:text-[9rem] font-black tracking-tighter hero-title leading-none mb-2">
+        C8oshi
       </h1>
       
       <h2 class="text-2xl md:text-5xl font-bold tracking-widest uppercase mb-8 text-gray-300 hero-reveal">
