@@ -48,7 +48,7 @@
               <img 
                 :src="milestone.image" 
                 :alt="milestone.title" 
-                class="w-full h-auto aspect-video object-cover grayscale opacity-70 group-hover:grayscale-0 group-hover:opacity-100 transition-all duration-700 group-hover:scale-105" 
+                class="w-full h-auto aspect-video object-cover object-top grayscale opacity-70 group-hover:grayscale-0 group-hover:opacity-100 transition-all duration-700 group-hover:scale-105" 
               />
             </div>
           </div>
