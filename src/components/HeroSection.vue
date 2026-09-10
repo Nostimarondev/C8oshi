@@ -21,7 +21,7 @@
       
       <div class="flex items-center gap-4 mt-8 hero-reveal">
         <span class="px-6 py-2 border border-white text-white font-bold tracking-widest text-sm bg-white/5 backdrop-blur-md hover:bg-white hover:text-black transition-colors duration-300 cursor-pointer">
-          ENTER $C8
+          TRADE $C8
         </span>
       </div>
     </div>
