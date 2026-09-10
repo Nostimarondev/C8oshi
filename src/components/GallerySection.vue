@@ -36,12 +36,20 @@ import gsap from 'gsap'
 import ScrollTrigger from 'gsap/ScrollTrigger'
 import AccordionGallery from './AccordionGallery.vue'
 
+import img4 from '../assets/4.webp'
+import img5 from '../assets/5.webp'
+import img6 from '../assets/6.webp'
+import img7 from '../assets/7.webp'
+import img8 from '../assets/8.webp'
+import img9 from '../assets/9.webp'
+
 const galleryItems = [
-  { image: 'https://picsum.photos/id/1015/900/1200', label: 'C8OSHI V1', link: '#' },
-  { image: 'https://picsum.photos/id/1018/900/1200', label: 'N8WORK', link: '#' },
-  { image: 'https://picsum.photos/id/1039/900/1200', label: '8RMY RISE', link: '#' },
-  { image: 'https://picsum.photos/id/1043/900/1200', label: 'UNDERC8VER', link: '#' },
-  { image: 'https://picsum.photos/id/1044/900/1200', label: 'THE CULT', link: '#' }
+  { image: img4, label: 'C8OSHI V1', link: '#' },
+  { image: img5, label: 'N8WORK', link: '#' },
+  { image: img6, label: '8RMY RISE', link: '#' },
+  { image: img7, label: 'UNDERC8VER', link: '#' },
+  { image: img8, label: 'THE CULT', link: '#' },
+  { image: img9, label: 'NAKAM8TO', link: '#' }
 ]
 
 onMounted(() => {
